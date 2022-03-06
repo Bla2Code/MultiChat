@@ -52,8 +52,6 @@ public class MainServer {
                             outs.println(inputLine);
                         }
                     }
-
-//                    out.println(inputLine);
                 }
                 close();
             } catch (Exception ex) {
